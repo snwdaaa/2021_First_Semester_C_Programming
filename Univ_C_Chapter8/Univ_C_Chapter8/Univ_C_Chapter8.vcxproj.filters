@@ -27,5 +27,38 @@
     <ClCompile Include="exam_23.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_15_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

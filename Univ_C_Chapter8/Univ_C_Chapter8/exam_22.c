@@ -1,25 +1,24 @@
-// 구구단의 결과를 2차원 배열에 저장한 후 출력하는 프로그램.
-
+// 2차원 배열에 구구단 저장
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-	int multiply_table[9][9];
+	int times_table[9][9] = { 0 };
 	int i, j;
-
-	for (i = 0; i < 9; i++)
+	
+	for (i = 1; i < 10; i++)
 	{
-		for (j = 0; j < 9; j++)
+		for (j = 1; j < 10; j++)
 		{
-			multiply_table[i][j] = (i+1) * (j+1);
+			times_table[i-1][j-1] = i * j;
 		}
 	}
 
-	for (i = 0; i < 9; i++)
+	for (i = 1; i < 10; i++)
 	{
-		for (j = 0; j < 9; j++)
+		for (j = 1; j < 10; j++)
 		{
-			printf("%d X %d = %d\t", i + 1, j + 1, multiply_table[i][j]);
+			printf("%dX%d=%2d\t", i, j, times_table[i - 1][j - 1]);
 		}
 		printf("\n");
 	}
