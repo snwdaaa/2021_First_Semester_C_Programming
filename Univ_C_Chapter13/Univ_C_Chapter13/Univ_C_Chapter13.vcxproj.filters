@@ -21,5 +21,32 @@
     <ClCompile Include="assignment_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="13_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_3_SELFSTUDY.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
