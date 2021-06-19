@@ -48,5 +48,14 @@
     <ClCompile Include="13_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="exam_34.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_35.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_36.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
